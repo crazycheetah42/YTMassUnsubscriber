@@ -9,4 +9,4 @@ Here's the overview of what you need to do:
 <br>
 That's all. Three easy steps.
 <br>
-First, go to <a href="https://console.cloud.google.com">console.cloud.google.com</a> to setup your project.
+First, go to <a href="https://console.cloud.google.com" target="_blank">console.cloud.google.com</a> to setup your project.
