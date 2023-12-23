@@ -6,5 +6,7 @@ Here's the overview of what you need to do:
 * Create a Google Cloud project
 * Download the client-secret.json file
 * Add it to the program
+<br>
 That's all. Three easy steps.
+<br>
 First, go to console.cloud.google.com to setup your project.
