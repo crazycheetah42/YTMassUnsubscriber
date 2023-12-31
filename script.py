@@ -37,7 +37,7 @@ try:
 except FileNotFoundError:
     print('File not found - client-secret.json')
     from tkinter import messagebox
-    messagebox.showerror("File not found", "The client-secret.json file was not found. Please make sure you have selected it through the app\'s file menu.\nIf you don\'t have a file, please watch this quick tutorial: ")
+    messagebox.showerror("File not found", "The client-secret.json file was not found. Please make sure you have selected it through the app\'s file menu.\nIf you don\'t have a file, please watch this quick tutorial: https://www.youtube.com/watch?v=qgeYIFb5kIY")
 
 API_NAME = 'youtube'
 API_VERSION = 'v3'
