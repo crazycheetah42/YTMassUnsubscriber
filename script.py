@@ -10,6 +10,8 @@ root.title('YouTube Mass Unsubscriber')
 menubar = tk.Menu(root)
 root.config(menu=menubar)
 
+
+#Empty string because it will be filled in by the user. 
 CLIENT_FILE = ""
 
 def open_client_secret():
