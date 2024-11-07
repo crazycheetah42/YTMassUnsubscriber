@@ -6,7 +6,7 @@ All you need to do is to add the project in your Google Cloud Account (easy) and
 Then, insert it using the app's built-in function and the app will open a Authentication dialog, and you need to click Allow to give the app permissions to unsubscribe from your accounts.
 That's all! You should be able to click Start and the app will start unsubscribing from the channels.
 <br><br>
-I plan to build onto this over time, adding features like whitelisting so you aren't unsubscribed from every channel.
+I plan to build onto this over time, adding features like whitelisting so you aren't unsubscribed from channels you didn't want to unsubscribe from.
 
 # Getting the client-secret.json file
 Getting the client-secret.json file is pretty simple.
