@@ -15,8 +15,8 @@ Here's the overview of what you need to do:
 * Download the client-secret.json file
 * Add it to the program
 <br>
-That's all. Three easy steps. The program also has a link to a quick 3-minute video which goes more in-depth of how to create the project and download the file.
-<br>
-<i>Note: if you are using the Google Cloud free API, you will only get 200 channels unsubscribed each day, so if you have more you can either pay or wait for the next day.</i>
+The program also has a link to a quick 3-minute video which shows step-by-step of how to create the project and download the file.
+<br><br>
+<i>Note: if you are using the Google Cloud free API and have more than 200 channels subscribed to, you will only get 200 channels unsubscribed each day, so if you have more you can either pay in Google Cloud for more tokens, or wait for the next day to continue.</i>
 
 ![Screenshot 2024-02-04 093419](https://github.com/crazycheetah42/YTMassUnsubscriber/assets/76403763/ae71c418-55d5-4b0a-b835-88503861e5e3)
