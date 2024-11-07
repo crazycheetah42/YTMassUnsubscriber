@@ -23,7 +23,7 @@ Here are some download links for Windows and Mac (Linux version will be here soo
 <br>
 <a href="https://github.com/crazycheetah42/YTMassUnsubscribeTool/releases/download/v1.0.0/YT_Mass_Unsubscriber_Mac.dmg">Mac (dmg)</a>
 <br><br>
-<i>Note: if you are using the Google Cloud free API and have more than 200 channels subscribed to, you will only get 200 channels unsubscribed each day, so if you have more you can either pay in Google Cloud for more tokens, or wait for the next day to continue.</i>
+<i>Note: If you are using the Google Cloud free API and have more than 200 channels subscribed to, you will only get 200 channels unsubscribed each day, so if you have more you can either pay in Google Cloud for more tokens, or wait for the next day to continue.</i>
 <br><br>
 
 ![Screenshot 2024-02-04 093419](https://github.com/crazycheetah42/YTMassUnsubscriber/assets/76403763/ae71c418-55d5-4b0a-b835-88503861e5e3)
