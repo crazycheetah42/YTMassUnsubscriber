@@ -19,7 +19,7 @@ Here's the overview of what you need to do:
 * Download the client-secret.json file
 * Add it to the program
 <br>
-The program also has a link to a quick 3-minute video which shows step-by-step of how to create the project and download the file.
+I also made a YouTube video on how to get access to your client-secret json using Google Cloud: https://www.youtube.com/watch?v=qgeYIFb5kIY
 <br><br>
 
 # Download Links
