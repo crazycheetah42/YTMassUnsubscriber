@@ -26,7 +26,7 @@ I also made a YouTube video on how to get access to your client-secret json usin
 <br>
 Here are some download links for Windows and Mac (Linux version will be here soon):<br>
 <a href="https://github.com/crazycheetah42/YTMassUnsubscribeTool/releases/download/v1.1.1/YT_Unsubscriber_v1.1.1_win_amd64.zip">Windows (zip)</a>
-<i>If the Unsubscriber errors out, please make sure you extracted the zip instead of simply copying over the EXE.</i>
+<i>If the Unsubscribe Tool errors out, please make sure you extracted the zip instead of simply copying over the EXE.</i>
 <br>
 <a href="https://github.com/crazycheetah42/YTMassUnsubscribeTool/releases/download/v1.0.0/YT_Mass_Unsubscriber_Mac.dmg">Mac (dmg)</a>
 <br><br>
