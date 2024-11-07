@@ -1,5 +1,5 @@
 # YouTube Mass Unsubscribe Tool
-The YouTube Mass Unsubscribe Tool is a tool which uses the official Google Cloud YT API - specifically, the YouTube Data v3 API, to unsubscribe from any YouTube channels you may be subscribed to.
+The YouTube Mass Unsubscribe Tool is a tool which uses the official Google Cloud YT API - specifically, the YouTube Data v3 API - to unsubscribe from any YouTube channels you may be subscribed to.
 This tool is written in Python and provides a simple GUI achieved with the help of tkinter.
 <br><br>
 All you need to do is to add the project in your Google Cloud Account (easy) and then download the client-secret.json file.
