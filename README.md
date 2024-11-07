@@ -18,6 +18,7 @@ Here's the overview of what you need to do:
 The program also has a link to a quick 3-minute video which shows step-by-step of how to create the project and download the file.
 <br><br>
 # Download Links
+<br>
 Here are some download links for Windows and Mac (Linux version will be here soon):<br>
 <a href="https://github.com/crazycheetah42/YTMassUnsubscribeTool/releases/download/v1.0.0/YT_Mass_Unsubscriber_win_amd64.exe">Windows (exe)</a>
 <br>
