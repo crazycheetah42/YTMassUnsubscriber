@@ -7,7 +7,7 @@ import os
 
 root = tk.Tk()
 root.geometry('625x501')
-root.iconbitmap("icon.ico")
+root.iconbitmap("Resources/icon.ico")
 root.title('YouTube Mass Unsubscribe Tool')
 
 menubar = tk.Menu(root)
