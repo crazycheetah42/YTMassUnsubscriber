@@ -4,10 +4,12 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import threading
 import os
+import darkdetect, platform
 
 root = tk.Tk()
 root.geometry('625x501')
-root.title('YouTube Mass Unsubscriber')
+root.iconbitmap("icon.ico")
+root.title('YouTube Mass Unsubscribe Tool')
 
 menubar = tk.Menu(root)
 root.config(menu=menubar)
@@ -30,7 +32,7 @@ file_menu.add_command(label="Open client secret file", command=open_client_secre
 file_menu.add_command(label="Exit", command=root.quit)
 menubar.add_cascade(label="File", menu=file_menu)
 
-heading = ttk.Label(root, text="YouTube Mass Unsubscriber", font=("Lucida Grande", 25))
+heading = ttk.Label(root, text="YT Mass Unsubscribe Tool", font=("Lucida Grande", 25))
 heading.pack()
 
 try:
@@ -38,7 +40,7 @@ try:
         print('File recognized - client-secret.json')
 except FileNotFoundError:
     print('File not found - client-secret.json')
-    messagebox.showerror("File not found", "The client-secret.json file was not found. Please make sure you have selected it through the app\'s file menu.\nIf you don\'t have a file, please watch this quick tutorial: https://www.youtube.com/watch?v=qgeYIFb5kIY")
+    messagebox.showinfo("File not found", "You have not added a client-secret.json file, which is required for this application to work.\nIf you don\'t have a file, please check this project's GitHub repository for more info.")
 
 API_NAME = 'youtube'
 API_VERSION = 'v3'
@@ -89,5 +91,11 @@ start_button.pack()
 info_box = tk.Text(root)
 info_box.pack()
 
+if platform.system() == "Windows":
+    import sv_ttk
+    if darkdetect.isDark():
+        sv_ttk.set_theme("dark")
+    else:
+        sv_ttk.set_theme("light")
 
 root.mainloop()
