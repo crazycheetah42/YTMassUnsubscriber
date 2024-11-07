@@ -11,7 +11,6 @@ I plan to build onto this over time, adding cool features, such as:
 
 - [ ] Whitelisting (Channels you DON'T want to unsubscribe from)
 
-- [ ] A Dark Mode for all platforms (in development)
 
 # Getting the client-secret.json file
 Getting the client-secret.json file is pretty simple.
