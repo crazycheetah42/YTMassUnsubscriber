@@ -10,7 +10,6 @@ I plan to build onto this over time, adding cool features, such as:
 <br>
 
 - [ ] Whitelisting (Channels you DON'T want to unsubscribe from)
-<br>
 
 - [ ] A Dark Mode for all platforms (in development)
 
