@@ -7,7 +7,11 @@ Then, insert it using the app's built-in function and the app will open a Authen
 That's all! You should be able to click Start and the app will start unsubscribing from the channels.
 <br><br>
 I plan to build onto this over time, adding cool features.
+<br>
+
 [ ] Whitelisting (Channels you DON'T want to unsubscribe from)
+<br>
+
 [ ] A Dark Mode for all platforms (in development)
 
 # Getting the client-secret.json file
