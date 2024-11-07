@@ -4,7 +4,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import threading
 import os
-import darkdetect, platform
 
 root = tk.Tk()
 root.geometry('625x501')
@@ -91,11 +90,5 @@ start_button.pack()
 info_box = tk.Text(root)
 info_box.pack()
 
-if platform.system() == "Windows":
-    import sv_ttk
-    if darkdetect.isDark():
-        sv_ttk.set_theme("dark")
-    else:
-        sv_ttk.set_theme("light")
 
 root.mainloop()
