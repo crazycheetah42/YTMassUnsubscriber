@@ -9,7 +9,7 @@ That's all! You should be able to click Start and the app will start unsubscribi
 I plan to build onto this over time, adding cool features, such as:
 <br>
 
-- [ ] Whitelisting (Channels you DON'T want to unsubscribe from)
+~~ - [x] Whitelisting (Channels you DON'T want to unsubscribe from) ~~
 
 
 # Getting the client-secret.json file
